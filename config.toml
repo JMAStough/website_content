@@ -1,4 +1,4 @@
-baseurl                 = "jmastough.github.io"
+baseurl                 = "jmastough.github.io/index.html"
 DefaultContentLanguage  = "en"
 title                   = "J.M.A. Stough"
 theme                   = "hugo-future-imperfect-slim"
